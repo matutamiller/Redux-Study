@@ -1,4 +1,4 @@
-This is my Redux study progress following Maximilian Schwarzmüller's course.
+This is my Redux study progress following Maximilian Schwarzmüller's course)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
